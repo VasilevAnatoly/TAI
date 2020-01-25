@@ -1,0 +1,38 @@
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\bin\Debug\NearestNeighbor.exe.config
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\bin\Debug\NearestNeighbor.exe
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\bin\Debug\NearestNeighbor.pdb
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\obj\Debug\NearestNeighbor.csprojResolveAssemblyReference.cache
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\obj\Debug\NearestNeighbor.Form1.resources
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\obj\Debug\NearestNeighbor.Properties.Resources.resources
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\obj\Debug\NearestNeighbor.csproj.GenerateResource.Cache
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\obj\Debug\NearestNeighbor.exe
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\obj\Debug\NearestNeighbor.pdb
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\bin\Debug\NearestNeighbor.exe.config
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\bin\Debug\NearestNeighbor.exe
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\bin\Debug\NearestNeighbor.pdb
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\obj\Debug\NearestNeighbor.csprojAssemblyReference.cache
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\obj\Debug\NearestNeighbor.Form1.resources
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\obj\Debug\NearestNeighbor.Properties.Resources.resources
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\obj\Debug\NearestNeighbor.csproj.GenerateResource.cache
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\obj\Debug\NearestNeighbor.csproj.CoreCompileInputs.cache
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\obj\Debug\NearestNeighbor.exe
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Ближ.соседа, отжига, муравьиный\NearestNeighbor\obj\Debug\NearestNeighbor.pdb
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\bin\Debug\NearestNeighbor.exe.config
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\bin\Debug\NearestNeighbor.exe
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\bin\Debug\NearestNeighbor.pdb
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\obj\Debug\NearestNeighbor.csprojAssemblyReference.cache
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\obj\Debug\NearestNeighbor.Form1.resources
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\obj\Debug\NearestNeighbor.Properties.Resources.resources
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\obj\Debug\NearestNeighbor.csproj.GenerateResource.cache
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\obj\Debug\NearestNeighbor.csproj.CoreCompileInputs.cache
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\obj\Debug\NearestNeighbor.exe
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\obj\Debug\NearestNeighbor.pdb
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\bin\Debug\NearestNeighbor.exe.config
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\bin\Debug\NearestNeighbor.exe
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\bin\Debug\NearestNeighbor.pdb
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\obj\Debug\NearestNeighbor.csprojAssemblyReference.cache
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\obj\Debug\NearestNeighbor.Form1.resources
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\obj\Debug\NearestNeighbor.Properties.Resources.resources
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\obj\Debug\NearestNeighbor.csproj.GenerateResource.cache
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\obj\Debug\NearestNeighbor.exe
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\TSP\TSP\obj\Debug\NearestNeighbor.pdb

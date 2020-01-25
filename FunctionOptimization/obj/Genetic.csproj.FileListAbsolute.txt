@@ -1,0 +1,8 @@
+H:\Projects\Genetic\bin\Debug\Genetic.dll
+H:\Projects\Genetic\bin\Debug\Genetic.pdb
+H:\Projects\Genetic\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\Genetic\obj\Debug\Genetic.dll
+H:\Projects\Genetic\obj\Debug\Genetic.pdb
+H:\Projects\Genetic\bin\Release\Genetic.dll
+H:\Projects\Genetic\obj\Release\ResolveAssemblyReference.cache
+H:\Projects\Genetic\obj\Release\Genetic.dll

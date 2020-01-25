@@ -1,0 +1,57 @@
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Кодировки ГА\SchwefelTest\bin\Debug\SchwefelTest.exe.config
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Кодировки ГА\SchwefelTest\bin\Debug\SchwefelTest.exe
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Кодировки ГА\SchwefelTest\bin\Debug\SchwefelTest.pdb
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Кодировки ГА\SchwefelTest\bin\Debug\ZedGraph.dll
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Кодировки ГА\SchwefelTest\obj\Debug\GeneticGUI.csprojResolveAssemblyReference.cache
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Кодировки ГА\SchwefelTest\obj\Debug\GeneticGUI.MainForm.resources
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Кодировки ГА\SchwefelTest\obj\Debug\SchwefelTest.Properties.Resources.resources
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Кодировки ГА\SchwefelTest\obj\Debug\GeneticGUI.csproj.GenerateResource.Cache
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Кодировки ГА\SchwefelTest\obj\Debug\SchwefelTest.exe
+C:\Users\Anatoly\Documents\Univer\4 kurs (7 sem)\ОИИ\Лабы\Кодировки ГА\SchwefelTest\obj\Debug\SchwefelTest.pdb
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Кодировки ГА\SchwefelTest\bin\Debug\SchwefelTest.exe.config
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Кодировки ГА\SchwefelTest\bin\Debug\SchwefelTest.exe
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Кодировки ГА\SchwefelTest\bin\Debug\SchwefelTest.pdb
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Кодировки ГА\SchwefelTest\bin\Debug\ZedGraph.dll
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Кодировки ГА\SchwefelTest\obj\Debug\GeneticGUI.csprojAssemblyReference.cache
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Кодировки ГА\SchwefelTest\obj\Debug\GeneticGUI.MainForm.resources
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Кодировки ГА\SchwefelTest\obj\Debug\SchwefelTest.Properties.Resources.resources
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Кодировки ГА\SchwefelTest\obj\Debug\GeneticGUI.csproj.GenerateResource.cache
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Кодировки ГА\SchwefelTest\obj\Debug\GeneticGUI.csproj.CoreCompileInputs.cache
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Кодировки ГА\SchwefelTest\obj\Debug\GeneticGUI.csproj.CopyComplete
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Кодировки ГА\SchwefelTest\obj\Debug\SchwefelTest.exe
+C:\Users\tolya\Documents\Универ\Новакова Старое\ОИИ\Лабы\Кодировки ГА\SchwefelTest\obj\Debug\SchwefelTest.pdb
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\Кодировки ГА\SchwefelTest\obj\Debug\GeneticGUI.csprojAssemblyReference.cache
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\Кодировки ГА\SchwefelTest\obj\Debug\GeneticGUI.MainForm.resources
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\Кодировки ГА\SchwefelTest\obj\Debug\SchwefelTest.Properties.Resources.resources
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\Кодировки ГА\SchwefelTest\obj\Debug\GeneticGUI.csproj.GenerateResource.cache
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\Кодировки ГА\SchwefelTest\obj\Debug\GeneticGUI.csproj.CoreCompileInputs.cache
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\Кодировки ГА\SchwefelTest\obj\Debug\SchwefelTest.exe
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\Кодировки ГА\SchwefelTest\obj\Debug\SchwefelTest.pdb
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\Кодировки ГА\SchwefelTest\bin\Debug\SchwefelTest.exe.config
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\Кодировки ГА\SchwefelTest\bin\Debug\SchwefelTest.exe
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\Кодировки ГА\SchwefelTest\bin\Debug\SchwefelTest.pdb
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\Кодировки ГА\SchwefelTest\bin\Debug\ZedGraph.dll
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\Кодировки ГА\SchwefelTest\obj\Debug\GeneticGUI.csproj.CopyComplete
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\bin\Debug\SchwefelTest.exe.config
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\bin\Debug\SchwefelTest.exe
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\bin\Debug\SchwefelTest.pdb
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\bin\Debug\ZedGraph.dll
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\obj\Debug\GeneticGUI.csprojAssemblyReference.cache
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\obj\Debug\GeneticGUI.MainForm.resources
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\obj\Debug\SchwefelTest.Properties.Resources.resources
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\obj\Debug\GeneticGUI.csproj.GenerateResource.cache
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\obj\Debug\GeneticGUI.csproj.CoreCompileInputs.cache
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\obj\Debug\GeneticGUI.csproj.CopyComplete
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\obj\Debug\SchwefelTest.exe
+C:\Users\tolya\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\obj\Debug\SchwefelTest.pdb
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\bin\Debug\SchwefelTest.exe.config
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\bin\Debug\SchwefelTest.exe
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\bin\Debug\SchwefelTest.pdb
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\bin\Debug\ZedGraph.dll
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\obj\Debug\GeneticGUI.csprojAssemblyReference.cache
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\obj\Debug\GeneticGUI.MainForm.resources
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\obj\Debug\SchwefelTest.Properties.Resources.resources
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\obj\Debug\GeneticGUI.csproj.GenerateResource.cache
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\obj\Debug\GeneticGUI.csproj.CopyComplete
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\obj\Debug\SchwefelTest.exe
+D:\TOLYA\Documents\Универ\6 курс (1 сем)\Новакова\ИИ\Готовый нормальный код\FunctionOptimization\SchwefelTest\obj\Debug\SchwefelTest.pdb
